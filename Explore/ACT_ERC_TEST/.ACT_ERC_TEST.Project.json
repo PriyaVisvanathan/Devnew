@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "cHdaDA0nT4UfGLuPDHeY0r",
+    "name" : "ACT_ERC_TEST",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Projet de test ACT ERC",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-18T10:19:05.802Z",
+  "objectRefs" : [ ]
+}
